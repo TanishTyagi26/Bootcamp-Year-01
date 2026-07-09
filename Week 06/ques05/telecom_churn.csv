@@ -1,0 +1,1001 @@
+Gender,SeniorCitizen,Tenure,MonthlyCharges,TotalCharges,ContractType,InternetService,Churn
+Male,No,48,98,4675,Two Year,DSL,Yes
+Female,No,66,109,7100,One Year,Fiber,Yes
+Male,No,70,120,8483,One Year,DSL,No
+Male,No,28,104,2930,Month-to-month,DSL,No
+Male,No,26,81,2200,One Year,None,Yes
+Female,Yes,25,68,1713,One Year,DSL,No
+Male,No,12,114,1283,One Year,Fiber,No
+Male,No,5,44,202,One Year,DSL,No
+Male,No,48,42,2094,One Year,DSL,Yes
+Female,No,37,43,1562,One Year,DSL,No
+Male,No,44,57,2531,Two Year,Fiber,No
+Male,No,15,47,717,Month-to-month,DSL,No
+Male,No,43,40,1631,One Year,None,No
+Male,No,48,73,3529,Month-to-month,Fiber,No
+Female,Yes,70,37,2542,One Year,Fiber,Yes
+Male,Yes,46,55,2504,One Year,Fiber,No
+Female,No,43,118,5106,Month-to-month,DSL,No
+Female,No,21,64,1270,One Year,DSL,No
+Female,No,23,92,2155,Month-to-month,DSL,No
+Male,Yes,47,72,3428,One Year,Fiber,Yes
+Female,No,15,49,768,Month-to-month,DSL,No
+Male,No,25,79,1971,One Year,Fiber,No
+Female,No,36,117,4116,Month-to-month,Fiber,No
+Female,No,51,51,2557,One Year,DSL,No
+Female,No,15,86,1345,Month-to-month,None,No
+Female,No,68,86,5825,Two Year,None,No
+Female,No,21,47,955,Two Year,None,Yes
+Female,No,13,63,836,Two Year,Fiber,No
+Female,Yes,19,98,1881,One Year,Fiber,No
+Female,No,34,60,1998,One Year,DSL,No
+Male,No,68,82,5508,Month-to-month,None,No
+Male,No,52,42,2145,Month-to-month,Fiber,No
+Female,No,27,94,2487,Month-to-month,Fiber,Yes
+Female,No,29,67,Unknown,One Year,Fiber,Yes
+Female,No,28,51,1346,Two Year,DSL,No
+Male,No,35,76,2756,Month-to-month,Fiber,Yes
+Female,No,8,119,974,Two Year,Fiber,No
+Male,No,16,52,925,One Year,Fiber,Yes
+Male,No,36,43,1494,One Year,Fiber,No
+Male,Yes,30,58,1806,Month-to-month,DSL,No
+Male,No,18,53,1049,Month-to-month,Fiber,Yes
+Male,No,2,75,82,One Year,DSL,No
+Female,No,49,47,2343,One Year,DSL,Yes
+Female,No,4,56,207,Month-to-month,DSL,No
+Female,No,7,26,263,One Year,Fiber,Yes
+Female,No,39,87,3427,Two Year,None,No
+Female,Yes,13,56,706,Two Year,DSL,No
+Male,No,31,75,2238,Two Year,None,Yes
+Female,No,71,84,6010,Month-to-month,None,Yes
+Female,No,63,84,5319,Month-to-month,Fiber,No
+Male,No,56,66,3649,One Year,Fiber,Yes
+Female,No,42,39,1685,Month-to-month,Fiber,No
+Male,No,61,38,2246,Month-to-month,DSL,No
+Female,No,42,48,1939,Month-to-month,Fiber,No
+Male,No,56,93,5189,Month-to-month,Fiber,No
+Female,No,36,79,2806,Month-to-month,Fiber,No
+Female,Yes,68,37,2520,Month-to-month,Fiber,No
+Male,Yes,7,111,733,Month-to-month,Fiber,No
+Male,No,54,54,2951,Month-to-month,Fiber,Yes
+Male,No,1,62,23,One Year,Fiber,Yes
+Male,No,44,114,5072,One Year,Fiber,No
+Male,No,45,110,4866,One Year,Fiber,No
+Male,Yes,47,30,1375,Month-to-month,Fiber,Yes
+Male,Yes,13,68,789,Month-to-month,DSL,No
+Male,No,22,57,1211,One Year,DSL,No
+Female,No,21,83,1711,One Year,Fiber,Yes
+Female,No,9,88,847,One Year,Fiber,No
+Male,No,26,27,663,Month-to-month,DSL,Yes
+Female,No,9,53,545,Two Year,DSL,No
+Female,No,15,67,1101,Month-to-month,DSL,Yes
+Female,No,10,75,731,Month-to-month,DSL,No
+Female,No,42,95,4058,One Year,Fiber,Yes
+Male,No,72,84,6124,One Year,Fiber,No
+Female,No,24,50,1276,Month-to-month,Fiber,No
+Male,No,49,23,1097,Month-to-month,None,Yes
+Female,No,26,69,1824,One Year,DSL,No
+Female,Yes,37,88,3165,Month-to-month,DSL,No
+Female,No,68,49,3329,Month-to-month,Fiber,Yes
+Male,No,50,107,5338,Month-to-month,DSL,No
+Female,No,24,78,1806,Two Year,Fiber,No
+Male,No,19,86,1535,Month-to-month,Fiber,No
+Female,No,60,94,5663,Two Year,Fiber,No
+Male,No,39,64,2419,One Year,DSL,No
+Female,No,18,23,387,Two Year,Fiber,Yes
+Male,No,19,45,920,Two Year,DSL,No
+Male,No,36,46,1577,Month-to-month,Fiber,No
+Female,Yes,55,65,3628,Month-to-month,DSL,No
+Male,Yes,69,83,5797,Month-to-month,DSL,No
+Female,Yes,47,110,5252,Month-to-month,Fiber,No
+Female,Yes,49,70,3368,One Year,DSL,Yes
+Female,Yes,33,69,2333,Month-to-month,DSL,Yes
+Female,No,21,25,444,Month-to-month,DSL,Yes
+Female,Yes,22,78,1656,Month-to-month,DSL,Yes
+Female,No,48,34,1713,Two Year,DSL,No
+Female,No,37,49,Unknown,Month-to-month,Fiber,Yes
+Female,No,15,61,922,Month-to-month,DSL,Yes
+Female,No,35,120,4246,Month-to-month,Fiber,Yes
+Female,Yes,71,56,Unknown,Two Year,Fiber,Yes
+Female,Yes,32,61,1962,One Year,Fiber,Yes
+Male,Yes,11,120,1285,Month-to-month,DSL,Yes
+Male,Yes,10,54,597,Month-to-month,DSL,No
+Female,No,57,106,5994,Month-to-month,Fiber,No
+Female,Yes,25,25,558,Month-to-month,DSL,Yes
+Female,Yes,2,87,223,Two Year,None,No
+Female,Yes,64,37,2334,One Year,Fiber,No
+Female,No,35,92,3253,Month-to-month,Fiber,Yes
+Female,No,7,48,262,Two Year,DSL,Yes
+Female,No,18,96,1637,Month-to-month,Fiber,No
+Female,No,67,78,5198,One Year,DSL,No
+Male,No,42,66,2767,Two Year,Fiber,Yes
+Female,Yes,39,36,1351,Month-to-month,Fiber,Yes
+Male,No,41,115,4684,One Year,DSL,No
+Female,No,24,41,1070,Month-to-month,DSL,Yes
+Female,Yes,60,87,5219,Month-to-month,DSL,Yes
+Male,No,46,88,4006,Month-to-month,DSL,No
+Female,No,19,56,965,Month-to-month,DSL,No
+Male,Yes,68,68,4680,One Year,DSL,No
+Female,No,42,32,1439,Two Year,Fiber,No
+Female,No,32,53,1660,One Year,DSL,Yes
+Male,No,39,105,4077,Two Year,Fiber,Yes
+Female,Yes,36,72,2645,Two Year,DSL,No
+Male,No,36,106,3725,Month-to-month,Fiber,Yes
+Female,No,3,70,162,Month-to-month,DSL,No
+Male,No,8,22,154,Month-to-month,Fiber,No
+Male,No,70,61,4228,One Year,DSL,No
+Female,No,41,117,4846,Two Year,DSL,Yes
+Female,No,68,51,3546,Month-to-month,Fiber,No
+Male,No,13,70,857,One Year,DSL,No
+Female,Yes,49,104,5144,One Year,Fiber,No
+Female,No,60,65,3922,One Year,DSL,Yes
+Female,No,2,40,1,Month-to-month,DSL,Yes
+Male,No,60,63,3779,Month-to-month,Fiber,Yes
+Male,No,5,30,147,Month-to-month,None,No
+Male,No,44,87,3885,Month-to-month,Fiber,No
+Male,Yes,27,20,464,Month-to-month,Fiber,No
+Male,No,32,111,3479,One Year,None,No
+Male,No,21,82,1814,Month-to-month,Fiber,Yes
+Male,No,8,43,356,Two Year,None,No
+Male,No,72,118,8440,One Year,None,Yes
+Male,No,50,32,1567,One Year,Fiber,No
+Female,Yes,67,117,7745,Month-to-month,DSL,No
+Male,No,44,30,1268,One Year,Fiber,No
+Female,No,58,119,6938,Two Year,Fiber,No
+Female,No,3,70,273,Month-to-month,Fiber,Yes
+Female,Yes,70,36,2502,Month-to-month,Fiber,Yes
+Male,No,2,118,264,One Year,Fiber,No
+Male,No,44,101,4481,Month-to-month,Fiber,No
+Male,No,2,105,273,Month-to-month,None,Yes
+Male,No,35,43,1477,Month-to-month,DSL,Yes
+Female,No,30,38,1085,Month-to-month,DSL,No
+Male,Yes,8,56,453,One Year,DSL,Yes
+Male,No,22,104,2347,Month-to-month,DSL,No
+Male,No,44,27,1119,Two Year,Fiber,No
+Male,No,58,47,2631,One Year,DSL,Yes
+Male,No,36,24,939,One Year,None,Yes
+Female,Yes,69,36,2549,One Year,Fiber,No
+Male,No,31,120,3764,Two Year,DSL,No
+Female,No,47,55,2558,Month-to-month,DSL,No
+Male,No,55,38,2103,Two Year,None,No
+Female,No,62,83,5072,One Year,DSL,Yes
+Male,No,30,110,3253,One Year,Fiber,No
+Male,No,55,117,6512,One Year,Fiber,No
+Female,No,16,30,542,Month-to-month,Fiber,Yes
+Female,No,12,73,860,Month-to-month,DSL,No
+Female,Yes,17,64,1114,One Year,Fiber,Yes
+Male,Yes,16,66,1108,Month-to-month,DSL,Yes
+Female,No,12,31,427,One Year,Fiber,Yes
+Male,Yes,8,40,330,Month-to-month,Fiber,No
+Male,Yes,3,30,4,Month-to-month,Fiber,No
+Female,No,16,111,1807,Month-to-month,DSL,No
+Female,Yes,30,24,712,Month-to-month,Fiber,No
+Male,No,23,100,2322,One Year,Fiber,No
+Male,Yes,5,75,347,Month-to-month,Fiber,Yes
+Female,No,65,39,2589,Two Year,Fiber,Yes
+Female,No,30,60,1853,One Year,Fiber,Yes
+Female,No,21,65,1411,Month-to-month,DSL,Yes
+Male,Yes,70,31,2161,One Year,DSL,No
+Male,No,22,89,1874,Two Year,Fiber,No
+Male,No,72,36,2534,One Year,DSL,No
+Male,No,32,38,1236,Month-to-month,None,Yes
+Male,No,33,45,1425,Two Year,DSL,No
+Male,No,16,67,1141,One Year,DSL,No
+Female,Yes,38,71,2775,Month-to-month,DSL,Yes
+Male,No,14,115,1677,Month-to-month,None,No
+Male,No,36,89,3142,One Year,DSL,No
+Male,No,23,74,1714,Month-to-month,Fiber,No
+Female,No,66,119,7904,Two Year,DSL,No
+Male,No,2,94,198,Month-to-month,DSL,No
+Male,No,65,52,3459,Two Year,Fiber,Yes
+Female,Yes,67,81,5373,One Year,Fiber,No
+Male,No,52,107,5526,Month-to-month,DSL,Yes
+Male,No,62,42,2613,Month-to-month,DSL,Yes
+Male,No,23,34,750,One Year,Fiber,No
+Male,No,26,46,1138,One Year,DSL,No
+Male,Yes,68,94,6467,One Year,Fiber,No
+Female,No,55,83,4498,Month-to-month,Fiber,No
+Female,No,6,100,539,Month-to-month,DSL,No
+Female,No,35,70,2410,Month-to-month,Fiber,No
+Male,Yes,22,72,1661,One Year,Fiber,No
+Male,No,43,97,4265,Month-to-month,None,Yes
+Male,No,15,110,1611,Month-to-month,Fiber,No
+Female,Yes,60,101,6017,One Year,Fiber,Yes
+Male,No,12,111,1392,Two Year,None,No
+Male,Yes,49,70,3404,Month-to-month,DSL,Yes
+Female,Yes,42,66,2687,Month-to-month,DSL,No
+Male,No,38,23,855,One Year,DSL,Yes
+Female,No,45,26,1163,One Year,Fiber,No
+Female,No,35,54,1837,Month-to-month,DSL,No
+Female,No,30,67,2047,Two Year,DSL,Yes
+Male,No,30,92,2741,Two Year,DSL,No
+Male,No,6,91,483,Month-to-month,DSL,No
+Male,No,67,64,4314,Month-to-month,DSL,No
+Male,No,7,100,618,One Year,Fiber,Yes
+Male,No,52,100,5263,One Year,Fiber,No
+Male,No,14,116,1710,Month-to-month,DSL,No
+Male,No,15,115,1687,One Year,DSL,No
+Female,No,21,91,1887,One Year,DSL,Yes
+Male,No,35,38,1403,Month-to-month,Fiber,No
+Female,Yes,66,82,5442,One Year,DSL,No
+Male,No,2,57,115,Two Year,DSL,No
+Male,No,35,86,2974,Month-to-month,DSL,No
+Male,Yes,20,78,1579,Month-to-month,DSL,No
+Female,Yes,10,88,870,Month-to-month,None,Yes
+Female,No,25,32,707,Two Year,DSL,No
+Female,No,66,66,4434,Two Year,DSL,No
+Female,No,25,80,1972,Month-to-month,DSL,Yes
+Male,Yes,54,50,2733,One Year,None,No
+Female,No,33,99,3273,One Year,DSL,Yes
+Male,No,36,115,4128,One Year,DSL,No
+Male,Yes,14,41,512,Month-to-month,DSL,No
+Female,Yes,65,112,7292,Month-to-month,DSL,Yes
+Female,No,54,105,5757,Month-to-month,Fiber,No
+Female,No,52,62,3151,One Year,Fiber,No
+Female,No,3,86,254,Month-to-month,None,Yes
+Female,No,41,73,3074,Two Year,DSL,No
+Female,No,6,29,110,Month-to-month,DSL,No
+Female,No,25,61,1561,Month-to-month,None,No
+Female,No,13,83,1060,One Year,DSL,Yes
+Male,No,8,40,275,One Year,DSL,No
+Female,No,21,99,2165,Month-to-month,DSL,Yes
+Female,No,68,95,6444,Month-to-month,DSL,No
+Male,No,25,85,2026,Two Year,Fiber,Yes
+Female,No,68,60,4168,Month-to-month,Fiber,No
+Male,No,45,43,1892,Month-to-month,Fiber,No
+Male,No,60,54,3246,Two Year,Fiber,No
+Female,No,12,75,922,Month-to-month,DSL,No
+Male,No,32,49,1655,Month-to-month,Fiber,Yes
+Male,No,13,76,1055,Month-to-month,Fiber,Yes
+Male,No,31,113,3566,Month-to-month,Fiber,No
+Male,No,20,66,Unknown,Month-to-month,Fiber,No
+Female,Yes,18,54,978,Month-to-month,DSL,Yes
+Male,No,60,38,2216,Month-to-month,DSL,No
+Female,No,63,27,1679,Month-to-month,DSL,No
+Male,No,6,45,261,One Year,Fiber,No
+Male,Yes,32,90,2797,Month-to-month,Fiber,Yes
+Male,No,43,49,2104,Month-to-month,Fiber,Yes
+Male,No,2,26,14,Two Year,DSL,Yes
+Female,No,60,86,5209,One Year,Fiber,No
+Female,No,23,84,1970,Month-to-month,DSL,No
+Male,No,31,55,1790,Two Year,Fiber,No
+Male,Yes,5,44,Unknown,Month-to-month,DSL,No
+Female,No,34,56,1807,Month-to-month,Fiber,No
+Male,No,10,20,234,One Year,Fiber,No
+Male,No,2,34,28,One Year,DSL,No
+Male,Yes,11,56,622,Month-to-month,Fiber,Yes
+Female,No,50,32,1553,Month-to-month,Fiber,No
+Female,No,31,27,824,One Year,DSL,No
+Female,No,56,24,1311,Month-to-month,DSL,Yes
+Male,No,9,79,739,Two Year,DSL,No
+Male,No,21,92,1886,Month-to-month,Fiber,Yes
+Female,Yes,28,20,462,Two Year,Fiber,No
+Female,No,62,55,3475,One Year,Fiber,No
+Female,Yes,7,54,398,Two Year,Fiber,No
+Female,No,16,85,1388,One Year,DSL,No
+Male,No,4,82,329,One Year,DSL,Yes
+Female,Yes,4,42,105,Month-to-month,Fiber,No
+Male,No,40,28,1104,Month-to-month,DSL,Yes
+Female,No,17,53,957,Month-to-month,Fiber,No
+Male,No,52,65,3412,Two Year,DSL,No
+Female,No,52,97,5035,Two Year,Fiber,No
+Female,No,36,23,748,Month-to-month,Fiber,No
+Female,No,38,49,1960,Month-to-month,DSL,No
+Female,No,50,114,5794,Month-to-month,DSL,No
+Male,No,63,94,5930,One Year,DSL,No
+Female,Yes,63,118,7380,Month-to-month,Fiber,No
+Male,No,62,91,5625,One Year,Fiber,Yes
+Male,No,7,22,136,Two Year,Fiber,No
+Male,No,27,33,825,Month-to-month,Fiber,No
+Male,No,14,79,1201,Month-to-month,DSL,Yes
+Female,No,71,96,6784,Month-to-month,Fiber,No
+Male,Yes,5,64,348,Month-to-month,Fiber,Yes
+Male,No,55,115,6420,Month-to-month,DSL,No
+Male,No,2,53,145,Month-to-month,Fiber,Yes
+Female,No,62,64,4055,Two Year,DSL,No
+Female,Yes,21,80,1606,Month-to-month,DSL,Yes
+Female,No,21,102,2097,Month-to-month,Fiber,No
+Female,No,10,35,272,Two Year,None,No
+Male,No,58,85,4982,One Year,DSL,No
+Male,No,39,59,2221,Month-to-month,Fiber,No
+Female,No,5,36,140,One Year,Fiber,No
+Male,No,65,53,3407,Month-to-month,Fiber,Yes
+Male,Yes,13,35,476,One Year,DSL,Yes
+Male,No,53,79,4138,One Year,DSL,No
+Female,No,45,85,3812,One Year,DSL,No
+Female,No,32,85,2772,Month-to-month,None,Yes
+Male,No,36,109,3878,Two Year,DSL,No
+Female,No,60,32,1865,Month-to-month,DSL,Yes
+Female,No,11,75,756,Month-to-month,Fiber,Yes
+Female,No,63,50,3104,Month-to-month,DSL,No
+Female,Yes,21,53,1108,Month-to-month,Fiber,No
+Female,No,52,58,3048,Month-to-month,DSL,No
+Male,No,55,86,4665,Two Year,Fiber,No
+Female,Yes,26,27,711,Two Year,Fiber,No
+Male,No,68,106,7284,Month-to-month,Fiber,No
+Male,No,34,97,3303,Month-to-month,Fiber,Yes
+Female,No,52,74,3805,Month-to-month,DSL,Yes
+Male,No,52,46,2330,Month-to-month,Fiber,No
+Male,No,29,112,3227,Month-to-month,DSL,No
+Male,Yes,38,72,2732,Two Year,Fiber,No
+Female,No,42,58,2448,Month-to-month,DSL,Yes
+Female,No,21,84,1724,Month-to-month,Fiber,Yes
+Male,Yes,42,36,1548,Month-to-month,Fiber,No
+Female,No,13,49,542,Two Year,DSL,Yes
+Female,No,64,72,4616,One Year,Fiber,No
+Female,No,17,32,478,Two Year,Fiber,Yes
+Female,No,9,40,298,One Year,Fiber,Yes
+Male,No,41,38,1607,Month-to-month,Fiber,No
+Male,No,1,72,140,Month-to-month,DSL,No
+Female,No,2,38,93,One Year,Fiber,No
+Female,No,60,76,4464,Month-to-month,DSL,Yes
+Male,No,48,44,2181,One Year,DSL,No
+Male,No,29,105,3031,Month-to-month,Fiber,Yes
+Female,Yes,10,50,475,Month-to-month,None,No
+Male,Yes,58,100,5894,One Year,DSL,No
+Female,No,60,74,4497,One Year,DSL,Yes
+Female,No,21,42,838,One Year,DSL,No
+Male,No,28,51,1454,Month-to-month,DSL,Yes
+Male,No,34,81,2682,One Year,DSL,No
+Female,No,8,93,808,Month-to-month,Fiber,No
+Female,No,59,29,1697,Month-to-month,Fiber,No
+Male,Yes,72,119,8608,Month-to-month,Fiber,Yes
+Female,No,49,91,4518,Month-to-month,Fiber,No
+Male,Yes,17,73,1186,Month-to-month,Fiber,No
+Female,No,60,71,4275,Month-to-month,Fiber,No
+Male,Yes,45,39,1766,Month-to-month,Fiber,No
+Male,No,69,51,3569,Month-to-month,DSL,Yes
+Male,Yes,32,33,1000,Month-to-month,DSL,No
+Female,No,44,69,3080,Month-to-month,None,Yes
+Female,No,65,47,3058,Month-to-month,Fiber,Yes
+Male,No,8,72,560,One Year,DSL,No
+Female,Yes,72,43,3189,Month-to-month,DSL,No
+Male,No,43,98,4247,Month-to-month,Fiber,No
+Male,No,1,41,48,Month-to-month,Fiber,No
+Female,No,51,49,2416,One Year,None,No
+Female,No,24,82,1961,Two Year,DSL,No
+Male,Yes,24,23,601,One Year,Fiber,No
+Female,Yes,17,96,1564,One Year,Fiber,Yes
+Female,No,5,78,447,Month-to-month,Fiber,No
+Male,No,20,106,2145,One Year,DSL,Yes
+Male,Yes,21,27,626,One Year,DSL,No
+Female,No,58,101,5927,Month-to-month,Fiber,No
+Male,No,31,31,982,Month-to-month,Fiber,No
+Male,No,11,50,587,Month-to-month,DSL,No
+Female,No,52,97,5058,Two Year,DSL,Yes
+Male,No,15,53,858,One Year,Fiber,No
+Male,No,7,101,768,One Year,DSL,Yes
+Female,Yes,28,117,3203,Month-to-month,Fiber,No
+Female,Yes,51,94,4704,Month-to-month,Fiber,No
+Male,No,58,95,5576,Month-to-month,DSL,No
+Male,No,5,68,286,Month-to-month,Fiber,Yes
+Female,No,5,98,516,Two Year,DSL,Yes
+Female,No,8,76,654,One Year,DSL,Yes
+Female,No,64,114,7313,Month-to-month,DSL,No
+Female,No,10,112,1162,Two Year,Fiber,No
+Male,Yes,38,45,1735,Month-to-month,Fiber,Yes
+Female,Yes,8,37,351,Two Year,Fiber,No
+Female,No,25,115,2926,Month-to-month,DSL,No
+Male,No,66,105,6901,Month-to-month,DSL,No
+Female,Yes,50,57,2856,Month-to-month,DSL,No
+Male,No,67,100,6736,Month-to-month,DSL,No
+Female,No,49,106,5268,Month-to-month,None,Yes
+Female,No,36,107,3784,One Year,DSL,Yes
+Female,Yes,68,69,4781,Two Year,Fiber,Yes
+Male,Yes,41,27,1025,One Year,Fiber,No
+Male,No,62,60,3814,Month-to-month,DSL,No
+Female,Yes,10,25,223,One Year,Fiber,No
+Male,No,21,88,1915,Month-to-month,Fiber,Yes
+Male,No,36,63,2342,Month-to-month,DSL,No
+Male,Yes,12,83,1088,One Year,DSL,Yes
+Male,No,2,48,152,One Year,Fiber,Yes
+Male,No,13,47,688,Month-to-month,DSL,No
+Male,No,53,30,1587,Month-to-month,DSL,No
+Female,No,32,84,2728,Two Year,Fiber,No
+Female,No,16,38,636,Month-to-month,Fiber,No
+Male,No,32,28,957,Month-to-month,Fiber,Yes
+Female,No,32,46,1464,One Year,DSL,Yes
+Female,No,11,53,658,Month-to-month,DSL,No
+Female,No,10,63,577,Month-to-month,DSL,No
+Female,Yes,15,87,1381,Month-to-month,DSL,No
+Male,Yes,17,119,1986,One Year,Fiber,No
+Female,No,40,101,4000,One Year,Fiber,No
+Female,Yes,18,34,668,One Year,DSL,Yes
+Male,Yes,55,70,3788,Two Year,Fiber,Yes
+Male,No,25,32,827,One Year,Fiber,No
+Female,No,59,102,6005,Month-to-month,Fiber,Yes
+Female,No,22,68,1421,Month-to-month,Fiber,No
+Female,No,30,89,2586,One Year,Fiber,No
+Female,No,44,75,3270,One Year,Fiber,No
+Female,No,32,95,2952,One Year,Fiber,Yes
+Female,No,51,70,3538,One Year,Fiber,Yes
+Male,No,46,56,2501,Month-to-month,DSL,No
+Female,No,21,36,704,Month-to-month,DSL,No
+Female,No,32,77,2558,Month-to-month,Fiber,No
+Male,No,39,106,4040,Month-to-month,DSL,No
+Male,No,12,109,1265,Month-to-month,Fiber,No
+Male,No,47,48,2204,One Year,DSL,No
+Male,No,18,52,938,One Year,DSL,No
+Female,No,21,79,1611,Month-to-month,DSL,No
+Female,No,13,110,1522,Month-to-month,DSL,No
+Female,Yes,21,108,2229,Month-to-month,Fiber,Yes
+Female,No,8,74,508,Month-to-month,Fiber,No
+Female,No,46,29,1404,One Year,DSL,No
+Female,No,7,66,386,One Year,Fiber,No
+Male,No,23,42,996,One Year,Fiber,No
+Female,No,22,104,2216,One Year,DSL,No
+Male,Yes,22,40,896,One Year,DSL,No
+Male,No,29,32,987,Month-to-month,DSL,No
+Female,No,13,120,1485,Month-to-month,Fiber,No
+Male,No,2,52,127,Month-to-month,DSL,No
+Female,No,29,43,Unknown,Two Year,Fiber,No
+Male,Yes,52,30,1484,Month-to-month,Fiber,No
+Female,No,27,36,925,Month-to-month,DSL,Yes
+Male,No,50,87,4405,Two Year,Fiber,No
+Female,No,23,66,1490,Two Year,Fiber,Yes
+Female,Yes,44,44,1955,One Year,DSL,No
+Female,No,22,113,2441,Month-to-month,Fiber,Yes
+Female,Yes,43,92,3920,Month-to-month,Fiber,No
+Female,No,37,40,1472,Month-to-month,Fiber,No
+Male,Yes,61,103,6268,Month-to-month,Fiber,Yes
+Male,No,56,102,5691,Month-to-month,Fiber,Yes
+Male,No,3,102,374,Month-to-month,DSL,Yes
+Female,No,63,31,1960,Two Year,DSL,No
+Male,No,19,56,1142,Month-to-month,Fiber,No
+Female,No,23,61,1420,One Year,DSL,Yes
+Female,No,29,36,1142,One Year,Fiber,Yes
+Male,Yes,30,120,3656,Month-to-month,Fiber,No
+Male,Yes,39,67,2595,One Year,DSL,Yes
+Female,No,25,47,1221,Month-to-month,Fiber,No
+Male,No,8,60,573,Month-to-month,None,Yes
+Female,No,58,118,6912,One Year,Fiber,No
+Female,No,16,66,1128,Month-to-month,DSL,Yes
+Female,No,72,37,2578,Two Year,Fiber,No
+Female,Yes,1,97,127,Month-to-month,Fiber,Yes
+Female,No,5,118,628,One Year,Fiber,No
+Male,No,3,90,350,Month-to-month,DSL,No
+Male,No,65,32,2153,Month-to-month,DSL,No
+Female,No,4,101,333,Month-to-month,None,No
+Female,Yes,64,120,7636,One Year,Fiber,No
+Male,Yes,10,32,365,Two Year,Fiber,No
+Male,No,21,119,2577,Two Year,Fiber,No
+Female,Yes,46,50,2327,Month-to-month,DSL,Yes
+Male,No,27,21,514,One Year,DSL,No
+Female,No,66,35,2403,One Year,Fiber,No
+Male,No,41,28,1183,One Year,DSL,Yes
+Female,No,13,92,1117,Month-to-month,Fiber,Yes
+Male,No,9,57,418,One Year,DSL,Yes
+Female,No,36,94,3468,Two Year,DSL,No
+Male,No,58,73,4237,Month-to-month,Fiber,Yes
+Male,No,54,75,3985,Two Year,Fiber,Yes
+Female,No,12,105,1238,One Year,None,Yes
+Male,No,14,116,1639,Month-to-month,DSL,No
+Female,No,34,119,4002,Month-to-month,DSL,No
+Male,No,53,106,5566,Month-to-month,DSL,No
+Female,No,20,64,1352,One Year,Fiber,Yes
+Male,Yes,16,53,829,Two Year,DSL,Yes
+Female,No,70,28,1925,Month-to-month,DSL,No
+Male,No,56,107,5968,Two Year,DSL,No
+Female,Yes,58,27,1510,Two Year,Fiber,No
+Male,No,4,26,82,Month-to-month,Fiber,Yes
+Female,No,4,55,139,Two Year,Fiber,No
+Female,No,20,37,831,Two Year,Fiber,No
+Female,No,10,22,242,One Year,Fiber,Yes
+Male,Yes,24,47,1094,One Year,Fiber,Yes
+Female,Yes,26,89,2296,Two Year,Fiber,No
+Male,No,37,63,2233,One Year,Fiber,No
+Female,No,54,40,2241,Month-to-month,DSL,No
+Male,No,21,47,950,Two Year,Fiber,No
+Female,No,38,73,2713,One Year,Fiber,No
+Male,No,46,73,3316,One Year,Fiber,Yes
+Male,No,4,84,418,Month-to-month,Fiber,No
+Female,No,60,119,7101,One Year,DSL,No
+Male,No,57,40,2311,Month-to-month,Fiber,Yes
+Male,No,45,118,5269,Two Year,DSL,No
+Female,No,20,32,655,Month-to-month,None,Yes
+Male,No,17,76,1266,Month-to-month,DSL,No
+Male,Yes,71,68,4849,Month-to-month,DSL,No
+Male,No,4,73,298,Month-to-month,DSL,No
+Female,Yes,14,29,401,One Year,DSL,No
+Male,No,3,72,206,Two Year,Fiber,Yes
+Female,No,58,63,3711,Two Year,Fiber,No
+Male,Yes,55,66,3659,Month-to-month,DSL,No
+Male,No,4,72,249,Month-to-month,Fiber,No
+Male,No,24,93,2180,Two Year,Fiber,No
+Female,No,34,65,2246,Two Year,DSL,No
+Male,No,30,32,951,Month-to-month,DSL,Yes
+Male,No,19,56,1122,Month-to-month,Fiber,No
+Female,No,31,43,Unknown,Month-to-month,DSL,Yes
+Male,No,60,21,1220,Two Year,Fiber,Yes
+Female,No,60,105,6247,One Year,DSL,No
+Female,No,19,100,1952,Month-to-month,Fiber,No
+Male,No,49,119,5894,Month-to-month,Fiber,Yes
+Female,No,63,33,2114,Two Year,DSL,No
+Male,No,22,29,595,Month-to-month,Fiber,Yes
+Female,Yes,24,54,1296,Month-to-month,DSL,No
+Female,No,30,44,1331,One Year,Fiber,No
+Male,No,58,22,1348,Month-to-month,Fiber,No
+Female,Yes,31,36,Unknown,Month-to-month,DSL,Yes
+Female,No,64,31,1922,Two Year,Fiber,No
+Female,No,19,73,1344,Two Year,Fiber,No
+Female,Yes,48,43,2062,Two Year,Fiber,No
+Female,No,45,48,2251,Two Year,DSL,No
+Male,No,55,62,3353,One Year,None,No
+Female,No,55,44,Unknown,Two Year,None,Yes
+Male,No,18,119,2100,Month-to-month,Fiber,No
+Female,No,63,79,4947,One Year,Fiber,No
+Male,No,47,109,5114,Two Year,Fiber,Yes
+Male,No,57,84,4696,Month-to-month,DSL,No
+Female,No,45,103,Unknown,Month-to-month,Fiber,Yes
+Female,No,33,47,1584,Month-to-month,None,No
+Female,No,17,35,651,Month-to-month,Fiber,No
+Male,Yes,70,66,4705,Month-to-month,None,No
+Female,No,4,100,444,Two Year,DSL,No
+Male,No,20,111,2263,Two Year,DSL,Yes
+Male,Yes,47,77,3649,Month-to-month,Fiber,No
+Male,Yes,15,95,1345,Month-to-month,Fiber,Yes
+Female,No,70,46,3183,Month-to-month,Fiber,No
+Female,No,47,72,3373,Two Year,Fiber,Yes
+Male,No,9,61,484,Month-to-month,Fiber,No
+Male,Yes,16,78,1209,Month-to-month,DSL,No
+Female,No,69,66,4623,Month-to-month,Fiber,No
+Male,No,61,113,6868,Month-to-month,DSL,No
+Female,No,10,53,599,Month-to-month,DSL,No
+Male,No,50,56,2888,Two Year,Fiber,No
+Female,No,3,25,-13,One Year,None,Yes
+Male,No,70,26,1730,One Year,Fiber,No
+Female,No,51,115,5818,Month-to-month,Fiber,Yes
+Male,No,19,115,2100,One Year,Fiber,Yes
+Female,Yes,42,44,1755,One Year,DSL,No
+Female,No,35,52,1823,Month-to-month,Fiber,Yes
+Male,Yes,46,74,3362,One Year,Fiber,Yes
+Male,No,26,77,1958,Month-to-month,DSL,Yes
+Female,No,69,26,1733,Two Year,Fiber,Yes
+Male,No,64,76,4950,Month-to-month,DSL,Yes
+Female,No,37,31,1176,Two Year,None,No
+Male,No,49,35,1708,Month-to-month,None,Yes
+Female,No,21,99,2116,One Year,Fiber,No
+Female,No,64,62,3911,One Year,Fiber,Yes
+Female,No,5,119,633,One Year,Fiber,No
+Female,No,70,96,6699,Month-to-month,Fiber,Yes
+Female,No,4,26,84,Month-to-month,Fiber,No
+Female,No,39,119,4542,One Year,Fiber,No
+Male,No,35,70,2527,Month-to-month,None,Yes
+Male,No,1,92,131,Month-to-month,None,No
+Male,No,24,51,1238,One Year,Fiber,No
+Female,No,57,94,5347,One Year,Fiber,Yes
+Female,No,70,27,1812,Month-to-month,Fiber,No
+Female,No,41,116,4801,Month-to-month,Fiber,No
+Female,Yes,54,106,5685,Month-to-month,DSL,No
+Male,No,46,108,4980,One Year,DSL,No
+Male,No,60,91,5487,One Year,DSL,No
+Female,No,60,64,3801,Two Year,DSL,No
+Male,No,57,105,5922,Two Year,DSL,No
+Male,Yes,31,78,2512,Month-to-month,DSL,No
+Female,Yes,24,23,617,Month-to-month,Fiber,Yes
+Male,No,36,86,3190,Month-to-month,DSL,No
+Female,No,30,48,1400,Month-to-month,Fiber,Yes
+Male,No,24,48,1180,Two Year,Fiber,Yes
+Female,No,30,117,3582,One Year,Fiber,No
+Female,No,7,117,874,Month-to-month,Fiber,No
+Female,No,35,47,1693,Month-to-month,None,Yes
+Female,No,55,96,5301,One Year,Fiber,No
+Male,Yes,14,98,1381,One Year,Fiber,No
+Female,No,10,106,972,Month-to-month,Fiber,No
+Female,No,16,63,1062,Two Year,DSL,No
+Female,No,54,109,5885,One Year,Fiber,No
+Male,No,70,23,1644,Month-to-month,None,Yes
+Female,No,44,109,4717,Two Year,DSL,Yes
+Male,Yes,45,28,1233,Month-to-month,DSL,No
+Female,No,56,24,1424,Two Year,DSL,Yes
+Male,No,57,75,4306,Two Year,Fiber,No
+Male,No,21,115,2337,One Year,Fiber,No
+Female,No,68,103,7022,One Year,DSL,No
+Male,No,50,69,3419,Month-to-month,Fiber,Yes
+Female,No,33,94,3085,Two Year,Fiber,No
+Female,No,7,34,238,One Year,DSL,No
+Female,Yes,70,51,3553,One Year,Fiber,No
+Male,No,15,47,765,Two Year,None,Yes
+Male,Yes,32,41,1239,Two Year,Fiber,No
+Female,No,20,36,755,Two Year,DSL,No
+Female,No,15,78,1070,Month-to-month,DSL,No
+Male,Yes,48,109,5296,Two Year,DSL,No
+Female,No,71,90,6352,One Year,Fiber,Yes
+Female,No,21,76,1517,Two Year,DSL,Yes
+Female,No,42,45,1859,One Year,DSL,No
+Male,No,26,44,1168,Month-to-month,Fiber,No
+Male,Yes,14,29,454,Month-to-month,Fiber,No
+Male,No,57,64,3643,One Year,DSL,Yes
+Female,No,37,102,3836,One Year,DSL,Yes
+Female,No,58,30,1718,Month-to-month,Fiber,Yes
+Female,Yes,21,96,1920,One Year,None,Yes
+Male,No,69,72,4927,Month-to-month,Fiber,No
+Female,No,3,91,292,Two Year,Fiber,No
+Female,No,37,87,3164,Month-to-month,DSL,Yes
+Female,No,49,114,5663,Month-to-month,DSL,No
+Female,No,19,47,968,Month-to-month,DSL,Yes
+Male,No,12,94,1161,Month-to-month,None,No
+Male,Yes,61,84,5079,Month-to-month,Fiber,Yes
+Female,No,41,68,2797,Month-to-month,Fiber,No
+Male,No,33,66,2264,Month-to-month,Fiber,No
+Male,Yes,50,71,3606,Two Year,DSL,No
+Female,No,68,107,7374,Two Year,DSL,No
+Female,No,71,73,5186,Month-to-month,Fiber,No
+Male,No,33,79,2583,Two Year,Fiber,No
+Female,No,24,76,1869,Month-to-month,Fiber,Yes
+Male,No,61,66,3927,One Year,DSL,No
+Female,No,61,50,2957,One Year,Fiber,No
+Male,Yes,28,65,1794,Month-to-month,Fiber,Yes
+Female,No,58,45,2691,Month-to-month,DSL,No
+Male,No,43,24,1056,Month-to-month,DSL,No
+Male,No,41,103,4160,Month-to-month,DSL,No
+Male,No,39,71,2844,One Year,DSL,No
+Female,No,49,94,4532,Month-to-month,Fiber,No
+Male,Yes,17,73,1160,Month-to-month,DSL,No
+Male,No,70,52,3679,Month-to-month,DSL,No
+Female,No,70,69,4772,Month-to-month,None,No
+Female,Yes,65,57,3793,One Year,Fiber,No
+Male,No,5,46,160,Month-to-month,Fiber,No
+Male,No,2,117,224,Two Year,Fiber,No
+Female,No,22,34,708,Month-to-month,Fiber,No
+Female,No,57,115,6649,Month-to-month,DSL,No
+Female,No,66,80,5288,One Year,Fiber,No
+Female,No,16,40,630,Month-to-month,Fiber,No
+Female,No,51,65,3377,One Year,Fiber,No
+Male,No,39,88,3426,One Year,Fiber,Yes
+Female,No,40,25,1042,Month-to-month,Fiber,No
+Male,No,38,57,2209,Month-to-month,Fiber,No
+Male,No,60,81,4772,Month-to-month,Fiber,Yes
+Male,No,59,105,6207,Month-to-month,DSL,Yes
+Female,No,10,81,744,Month-to-month,DSL,No
+Male,No,64,101,6550,Month-to-month,Fiber,Yes
+Male,No,63,97,6159,Month-to-month,None,No
+Female,No,49,93,4638,One Year,DSL,No
+Male,No,64,65,4217,One Year,DSL,No
+Male,No,32,32,971,One Year,Fiber,No
+Female,No,7,114,732,Month-to-month,Fiber,No
+Male,No,21,113,2358,Month-to-month,Fiber,No
+Male,Yes,20,22,505,Two Year,Fiber,Yes
+Male,No,26,113,2996,One Year,Fiber,No
+Female,No,68,25,1751,Two Year,None,No
+Female,Yes,15,112,1693,Month-to-month,Fiber,No
+Female,No,14,27,454,One Year,Fiber,Yes
+Male,Yes,27,63,1700,One Year,DSL,No
+Male,No,40,52,2139,Month-to-month,Fiber,Yes
+Female,No,58,100,5882,Month-to-month,DSL,No
+Male,Yes,28,94,2717,One Year,DSL,Yes
+Male,No,26,96,2494,Month-to-month,DSL,No
+Female,No,63,69,4249,Month-to-month,None,No
+Female,No,66,30,2076,One Year,Fiber,Yes
+Male,Yes,25,114,2834,Two Year,DSL,No
+Male,No,3,47,165,Month-to-month,None,No
+Male,No,72,89,6445,Month-to-month,DSL,No
+Female,No,44,60,2622,Month-to-month,Fiber,No
+Female,No,42,35,1394,One Year,None,No
+Female,No,6,87,489,Month-to-month,Fiber,No
+Female,No,39,118,4562,Two Year,None,No
+Male,No,52,67,Unknown,Month-to-month,Fiber,No
+Female,No,23,75,1751,Month-to-month,DSL,Yes
+Female,Yes,50,83,4068,One Year,DSL,No
+Female,No,43,78,3424,Two Year,Fiber,No
+Female,No,19,109,2164,Month-to-month,Fiber,Yes
+Female,No,69,81,5562,Month-to-month,Fiber,No
+Male,No,51,95,4805,Two Year,None,No
+Male,No,11,30,400,Month-to-month,DSL,No
+Female,No,12,120,1492,Two Year,DSL,Yes
+Male,Yes,8,108,783,Month-to-month,DSL,No
+Female,No,24,37,835,One Year,DSL,No
+Female,No,41,38,1544,One Year,Fiber,No
+Male,Yes,36,106,3867,Month-to-month,Fiber,No
+Male,No,72,74,5366,Two Year,DSL,No
+Female,No,55,101,5564,Month-to-month,Fiber,No
+Female,Yes,9,45,487,Month-to-month,Fiber,Yes
+Female,No,47,25,1102,One Year,Fiber,No
+Male,No,15,23,441,Month-to-month,Fiber,No
+Female,No,48,48,2394,One Year,DSL,Yes
+Female,Yes,42,78,3234,Month-to-month,Fiber,No
+Female,No,60,117,7052,Month-to-month,DSL,Yes
+Male,No,70,36,2470,Month-to-month,Fiber,Yes
+Female,No,12,62,792,Month-to-month,Fiber,No
+Female,No,2,99,109,Month-to-month,Fiber,No
+Male,Yes,7,85,544,One Year,DSL,No
+Female,No,3,53,190,Two Year,DSL,No
+Female,Yes,3,27,93,Two Year,None,Yes
+Male,Yes,27,32,933,Month-to-month,DSL,No
+Female,No,40,27,1145,Month-to-month,DSL,No
+Male,No,33,113,3781,Month-to-month,DSL,No
+Male,No,1,115,28,Month-to-month,None,No
+Female,No,8,119,883,One Year,DSL,No
+Female,No,32,113,3654,Month-to-month,Fiber,No
+Female,No,48,84,4120,Month-to-month,DSL,No
+Female,No,4,62,293,Two Year,DSL,Yes
+Male,No,70,58,4114,Month-to-month,DSL,No
+Female,No,19,100,1854,Month-to-month,Fiber,Yes
+Male,Yes,32,78,2577,Month-to-month,DSL,Yes
+Female,No,9,103,946,Month-to-month,None,Yes
+Female,No,12,107,1258,Two Year,Fiber,No
+Female,No,11,105,1075,Month-to-month,DSL,No
+Male,Yes,46,112,5223,Month-to-month,Fiber,No
+Female,No,16,105,1712,Month-to-month,Fiber,No
+Female,No,1,63,49,Month-to-month,Fiber,No
+Female,No,63,28,1832,Month-to-month,Fiber,No
+Female,No,21,56,1134,Two Year,DSL,Yes
+Male,Yes,30,93,2778,Two Year,Fiber,No
+Female,No,13,55,796,One Year,Fiber,No
+Male,No,34,120,4129,Month-to-month,Fiber,No
+Male,No,4,111,426,Two Year,Fiber,No
+Male,No,28,47,1280,One Year,Fiber,Yes
+Male,No,59,61,3562,Month-to-month,DSL,No
+Male,No,27,62,1644,One Year,Fiber,No
+Male,No,69,104,7079,Month-to-month,DSL,No
+Female,No,25,107,2767,Month-to-month,DSL,Yes
+Male,No,3,61,225,One Year,Fiber,No
+Male,No,68,85,5783,Month-to-month,DSL,No
+Male,No,25,74,1899,One Year,Fiber,Yes
+Female,Yes,20,91,1894,Month-to-month,Fiber,No
+Female,No,34,67,2270,Two Year,Fiber,No
+Male,No,26,110,2933,Two Year,Fiber,No
+Female,No,5,41,246,Two Year,DSL,No
+Male,No,61,120,7397,Month-to-month,DSL,No
+Male,No,9,46,461,Month-to-month,Fiber,No
+Female,Yes,50,112,5677,Month-to-month,DSL,Yes
+Male,No,6,86,527,Month-to-month,Fiber,Yes
+Female,No,60,32,1980,Month-to-month,DSL,Yes
+Female,No,44,64,2834,One Year,Fiber,No
+Male,No,11,29,277,One Year,Fiber,No
+Male,No,66,119,7796,Two Year,Fiber,No
+Female,No,47,28,1227,Month-to-month,Fiber,No
+Male,Yes,3,73,158,Month-to-month,DSL,No
+Male,Yes,30,46,Unknown,Month-to-month,DSL,No
+Male,No,21,53,1032,Two Year,Fiber,Yes
+Female,No,28,20,625,One Year,DSL,No
+Female,No,62,51,3192,Two Year,DSL,No
+Male,No,33,108,3619,Two Year,DSL,No
+Female,Yes,35,112,4003,One Year,Fiber,No
+Female,Yes,52,90,4669,Month-to-month,Fiber,No
+Female,No,34,86,2917,Month-to-month,None,Yes
+Female,No,41,103,4135,One Year,DSL,No
+Female,No,51,39,1954,Month-to-month,Fiber,No
+Male,No,47,113,5247,Month-to-month,Fiber,No
+Male,Yes,58,54,3208,Two Year,Fiber,No
+Male,No,57,118,6691,Two Year,DSL,No
+Female,No,23,110,2465,One Year,DSL,No
+Female,No,48,109,5313,One Year,Fiber,No
+Male,No,22,97,2059,One Year,DSL,No
+Female,No,17,36,586,Month-to-month,DSL,No
+Male,Yes,69,37,2652,Month-to-month,DSL,No
+Male,Yes,11,64,711,One Year,DSL,No
+Male,No,15,112,1747,One Year,DSL,No
+Female,No,35,103,3547,Month-to-month,Fiber,Yes
+Female,No,33,72,2425,Two Year,DSL,No
+Male,No,16,110,1807,Month-to-month,Fiber,Yes
+Male,No,34,101,3341,Month-to-month,Fiber,No
+Male,No,66,87,5670,One Year,Fiber,Yes
+Male,No,40,84,3299,Month-to-month,Fiber,Yes
+Female,Yes,28,20,617,Month-to-month,Fiber,Yes
+Female,No,47,77,3646,Month-to-month,Fiber,Yes
+Male,Yes,39,45,1738,One Year,DSL,No
+Male,No,70,39,2745,Month-to-month,Fiber,No
+Female,No,20,106,2202,One Year,DSL,No
+Female,Yes,1,29,72,One Year,Fiber,No
+Male,No,72,78,5689,Month-to-month,None,No
+Male,No,63,94,5883,Two Year,DSL,Yes
+Male,No,67,60,3926,Month-to-month,Fiber,No
+Female,No,4,24,40,Two Year,DSL,Yes
+Female,Yes,58,84,4958,One Year,DSL,No
+Female,No,25,36,983,Two Year,DSL,No
+Male,No,47,41,2002,Month-to-month,DSL,Yes
+Male,Yes,38,117,4500,Month-to-month,DSL,No
+Female,No,15,60,980,Month-to-month,DSL,No
+Female,Yes,63,112,7043,Month-to-month,Fiber,No
+Male,Yes,21,87,1799,One Year,Fiber,No
+Female,No,57,88,5078,Month-to-month,DSL,Yes
+Female,Yes,53,30,1668,One Year,Fiber,No
+Male,No,46,75,3386,Month-to-month,Fiber,Yes
+Female,No,14,70,998,Month-to-month,Fiber,No
+Male,No,17,40,636,One Year,Fiber,Yes
+Male,No,39,118,4509,Month-to-month,None,No
+Male,Yes,9,95,849,One Year,Fiber,No
+Male,Yes,6,45,286,One Year,Fiber,No
+Male,No,23,38,883,Two Year,DSL,No
+Male,No,59,79,4580,Month-to-month,DSL,No
+Male,Yes,46,90,4163,One Year,Fiber,No
+Female,No,38,66,2460,Two Year,Fiber,No
+Male,Yes,14,90,1278,One Year,None,Yes
+Male,No,72,45,3151,Month-to-month,DSL,No
+Female,No,62,59,3734,One Year,Fiber,Yes
+Female,No,35,24,756,One Year,Fiber,Yes
+Female,No,19,40,723,One Year,Fiber,No
+Male,No,30,97,2851,Month-to-month,Fiber,No
+Female,No,25,23,568,Month-to-month,Fiber,No
+Male,No,40,42,1736,Two Year,DSL,Yes
+Male,Yes,14,103,1488,Month-to-month,Fiber,No
+Male,No,26,34,794,One Year,DSL,Yes
+Male,No,22,112,2461,Month-to-month,Fiber,Yes
+Female,No,48,27,1373,One Year,DSL,Yes
+Female,No,51,60,3030,Month-to-month,DSL,No
+Male,No,3,38,121,Month-to-month,Fiber,No
+Male,No,42,65,2687,Two Year,DSL,Yes
+Male,No,19,47,826,Two Year,Fiber,No
+Female,Yes,28,110,2999,One Year,DSL,Yes
+Male,Yes,45,87,3864,Month-to-month,DSL,No
+Male,No,71,34,2415,One Year,Fiber,No
+Female,Yes,63,118,7471,One Year,Fiber,No
+Female,No,19,56,1123,One Year,Fiber,No
+Male,No,47,20,891,Month-to-month,DSL,No
+Female,No,14,86,1118,One Year,Fiber,No
+Female,No,38,43,1617,One Year,Fiber,No
+Male,Yes,53,46,2468,Two Year,Fiber,No
+Female,No,61,59,3535,Month-to-month,Fiber,No
+Male,No,36,82,2977,One Year,DSL,Yes
+Female,No,40,80,3139,One Year,Fiber,No
+Male,No,30,55,1621,Month-to-month,DSL,No
+Male,No,9,117,992,Month-to-month,Fiber,Yes
+Male,No,64,112,7123,Month-to-month,Fiber,No
+Female,No,33,43,1469,Month-to-month,DSL,No
+Male,No,52,43,2239,Month-to-month,None,No
+Female,No,14,23,360,One Year,DSL,No
+Male,Yes,53,86,4567,One Year,Fiber,No
+Male,No,59,53,3218,One Year,Fiber,No
+Female,Yes,41,76,3151,Two Year,DSL,No
+Male,Yes,68,68,4616,Month-to-month,Fiber,No
+Male,No,68,106,7201,Month-to-month,Fiber,No
+Female,No,8,72,531,One Year,DSL,No
+Male,No,2,42,43,Month-to-month,DSL,No
+Male,No,41,88,3645,Month-to-month,None,No
+Male,No,55,114,6208,Month-to-month,None,No
+Male,No,16,72,1079,Month-to-month,DSL,Yes
+Female,No,62,81,4970,Two Year,Fiber,Yes
+Female,No,48,60,2943,Month-to-month,Fiber,No
+Male,No,30,76,2304,Month-to-month,DSL,No
+Female,Yes,12,79,860,Month-to-month,DSL,Yes
+Male,No,35,73,2490,One Year,Fiber,Yes
+Female,No,11,89,979,Month-to-month,Fiber,Yes
+Male,No,64,120,7605,One Year,Fiber,No
+Male,No,50,76,3785,Month-to-month,DSL,Yes
+Male,No,21,29,512,Month-to-month,Fiber,No
+Male,No,69,59,4052,One Year,Fiber,No
+Male,No,48,26,1339,Month-to-month,DSL,No
+Male,No,20,57,Unknown,Month-to-month,DSL,No
+Female,No,67,104,6994,Month-to-month,Fiber,Yes
+Male,No,44,80,3507,Two Year,DSL,No
+Female,No,33,103,3425,Month-to-month,DSL,No
+Male,No,61,22,1361,One Year,Fiber,No
+Female,No,9,70,551,Month-to-month,Fiber,No
+Female,No,68,105,7169,Month-to-month,Fiber,No
+Female,No,35,66,2240,Month-to-month,Fiber,Yes
+Male,Yes,65,87,5673,Two Year,None,No
+Male,No,8,111,798,Month-to-month,Fiber,Yes
+Female,No,45,95,4220,Month-to-month,DSL,No
+Male,Yes,47,57,2674,Month-to-month,Fiber,Yes
+Female,No,40,55,2289,Month-to-month,Fiber,No
+Male,No,54,60,3336,Month-to-month,DSL,No
+Female,Yes,46,88,4139,One Year,Fiber,Yes
+Female,No,47,32,1413,Month-to-month,Fiber,No
+Male,No,15,106,1657,Month-to-month,Fiber,Yes
+Female,No,19,77,1490,One Year,Fiber,Yes
+Male,No,26,69,1845,Month-to-month,DSL,No
+Female,No,52,49,2546,Month-to-month,Fiber,No
+Female,No,22,81,1853,Month-to-month,DSL,No
+Male,No,21,120,2531,One Year,DSL,Yes
+Male,No,51,44,2203,Month-to-month,Fiber,No
+Male,Yes,38,46,1837,Month-to-month,Fiber,No
+Female,No,20,70,1386,Month-to-month,Fiber,No
+Male,No,29,97,2857,One Year,DSL,No
+Female,No,51,76,3840,Month-to-month,Fiber,No
+Female,No,4,66,220,One Year,DSL,No
+Male,No,55,119,6627,Two Year,Fiber,No
+Male,No,71,58,4123,One Year,DSL,No
+Female,Yes,28,35,1060,Month-to-month,Fiber,No
+Female,No,4,41,247,Month-to-month,DSL,Yes
+Male,No,22,104,2196,Month-to-month,Fiber,No
+Male,No,45,73,3206,Month-to-month,Fiber,No
+Male,Yes,67,40,2720,Month-to-month,Fiber,Yes
+Male,Yes,66,91,5994,One Year,Fiber,Yes
+Male,No,34,35,1265,Month-to-month,None,No
+Female,No,55,78,4207,Month-to-month,Fiber,Yes
+Female,No,1,50,64,One Year,Fiber,No
+Female,No,72,61,4459,One Year,DSL,No
+Female,No,38,93,3578,Month-to-month,Fiber,No
+Male,No,6,51,348,Two Year,DSL,Yes
+Male,No,25,78,1955,Month-to-month,DSL,No
+Male,Yes,17,53,815,One Year,Fiber,No
+Female,Yes,61,28,1670,One Year,None,No
+Female,Yes,12,100,1266,One Year,Fiber,No
+Male,No,6,30,92,One Year,Fiber,No
+Male,No,27,115,3085,Month-to-month,DSL,No
+Female,No,8,29,163,Month-to-month,DSL,No
+Female,No,65,105,6861,One Year,Fiber,No
+Male,No,57,36,1991,Month-to-month,DSL,No
+Male,No,40,87,3527,Two Year,Fiber,Yes
+Female,No,14,67,919,Month-to-month,Fiber,No
+Male,No,35,71,2461,Month-to-month,DSL,No
+Male,Yes,48,44,2202,Month-to-month,Fiber,No
+Male,No,56,40,2215,Month-to-month,Fiber,No
+Female,Yes,49,120,5951,One Year,DSL,Yes
+Female,No,13,84,1029,One Year,None,Yes
+Female,No,61,82,5089,One Year,Fiber,Yes
+Female,Yes,49,108,5262,Two Year,DSL,Yes
+Female,Yes,46,70,3167,Two Year,DSL,No
+Female,No,62,55,3327,Two Year,None,Yes
+Female,No,8,100,843,Month-to-month,DSL,Yes
+Male,No,43,107,4683,One Year,Fiber,No
+Male,No,20,85,1638,Month-to-month,Fiber,No
+Male,Yes,39,34,1421,Month-to-month,Fiber,No
+Male,Yes,49,115,5721,One Year,DSL,No
+Male,No,64,58,3700,Month-to-month,DSL,No
+Male,No,62,89,5479,Month-to-month,DSL,Yes
+Male,Yes,54,20,1120,Month-to-month,None,No
+Female,No,9,42,386,Month-to-month,Fiber,Yes
+Female,No,37,58,2126,Two Year,Fiber,No
+Male,No,49,76,3757,Month-to-month,Fiber,No
+Male,No,41,100,4076,Month-to-month,Fiber,No
+Female,No,17,53,988,Month-to-month,Fiber,No
+Male,No,21,60,1249,Month-to-month,Fiber,No
+Male,No,51,112,5625,Two Year,DSL,Yes
+Female,Yes,59,92,5422,Month-to-month,DSL,No
+Male,Yes,39,32,1201,One Year,DSL,No
+Female,No,55,89,4926,One Year,DSL,No
+Male,No,41,25,963,Two Year,Fiber,Yes
+Female,No,39,103,3988,One Year,DSL,No
+Female,No,13,71,847,Two Year,DSL,No
+Female,No,64,22,1384,Month-to-month,DSL,No
+Male,Yes,11,100,1159,Month-to-month,Fiber,No
+Female,No,19,82,1644,Month-to-month,Fiber,No
+Male,No,11,68,838,Two Year,Fiber,No
+Male,No,46,95,4435,Month-to-month,DSL,No
+Male,Yes,45,66,2989,Month-to-month,DSL,No
+Male,No,1,74,26,Month-to-month,DSL,No
+Female,No,40,83,3414,Month-to-month,Fiber,No
+Female,No,19,84,1651,Month-to-month,DSL,Yes
+Male,No,72,100,7230,Two Year,None,Yes
+Male,No,72,86,6241,Month-to-month,Fiber,No
+Female,No,61,109,6644,One Year,Fiber,Yes
+Male,No,12,34,473,One Year,None,No
+Female,No,61,119,Unknown,Month-to-month,Fiber,No
+Male,Yes,33,51,1654,Month-to-month,None,No
+Male,No,45,115,5136,Month-to-month,None,No
+Female,No,69,87,6087,Month-to-month,DSL,No
+Male,No,8,37,201,One Year,DSL,Yes
+Female,No,25,102,2481,Month-to-month,DSL,No
+Male,No,46,62,2850,Month-to-month,DSL,No
+Male,No,30,54,1657,One Year,Fiber,No
+Male,No,47,97,4589,Two Year,Fiber,No
+Female,Yes,49,77,3859,Two Year,Fiber,No
+Male,No,47,52,2419,Two Year,DSL,Yes
+Male,No,18,33,670,One Year,Fiber,No
+Male,Yes,66,53,3456,Month-to-month,Fiber,No
+Male,No,68,80,5370,One Year,Fiber,Yes
+Female,No,33,23,751,Month-to-month,DSL,No
+Female,No,36,107,3820,One Year,None,No
+Male,No,19,78,1571,One Year,None,No
+Female,No,28,48,1295,Month-to-month,Fiber,Yes
+Male,No,40,102,4068,One Year,DSL,Yes
+Male,No,15,25,Unknown,Two Year,DSL,No
+Male,No,41,116,4824,Month-to-month,DSL,Yes
+Female,No,39,68,2582,Two Year,DSL,No
+Female,No,2,59,101,Month-to-month,Fiber,No
+Female,No,63,102,6452,One Year,None,No
+Female,No,29,84,2485,Month-to-month,Fiber,No
+Female,No,66,88,5839,One Year,Fiber,No
+Female,No,51,46,2258,Two Year,DSL,Yes
+Female,No,10,99,934,Two Year,Fiber,No
+Female,Yes,14,25,376,One Year,Fiber,No
+Female,No,51,32,1701,Month-to-month,DSL,No
+Male,Yes,39,83,3250,Two Year,Fiber,No
+Female,No,28,81,2344,Month-to-month,DSL,No
+Female,No,3,118,273,Two Year,DSL,No
+Female,No,70,38,2640,Month-to-month,DSL,Yes
+Female,No,27,95,2646,Month-to-month,DSL,Yes
+Female,No,2,99,261,One Year,DSL,No
+Female,No,38,62,2384,Month-to-month,DSL,No
+Female,No,3,93,321,Month-to-month,DSL,No
+Female,No,16,108,1644,Month-to-month,DSL,No
+Female,No,40,39,1611,Month-to-month,DSL,No
+Female,Yes,2,114,185,Month-to-month,DSL,No
+Female,No,41,87,3538,Month-to-month,Fiber,No
+Male,No,12,63,764,Month-to-month,Fiber,Yes
+Male,No,35,42,1392,Month-to-month,None,No
+Female,No,65,21,1438,One Year,Fiber,No
+Female,No,55,41,2226,Month-to-month,Fiber,Yes
+Male,No,45,76,3327,Two Year,DSL,No
