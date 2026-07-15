@@ -1,10 +1,6 @@
 #================= Unit Converter Program......  ====================
 
 
-
-
-
-
 def km_to_m(km):
     return km * 1000
 
